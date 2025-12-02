@@ -1,0 +1,22 @@
+[
+  {
+    "flight_date": "2025-12-03",
+    "flight_status": "scheduled",
+    "departure_airport": "Gold Coast (coolangatta)",
+    "departure_iata": "OOL",
+    "arrival_airport": "Gold Coast (coolangatta)",
+    "arrival_iata": "OOL",
+    "airline": "empty",
+    "flight_number": null
+  },
+  {
+    "flight_date": "2025-12-02",
+    "flight_status": "scheduled",
+    "departure_airport": "Madras International (Meenambakkam)",
+    "departure_iata": "MAA",
+    "arrival_airport": "Civil",
+    "arrival_iata": "TRZ",
+    "airline": "Malaysia Airlines",
+    "flight_number": "MH5615"
+  }
+]

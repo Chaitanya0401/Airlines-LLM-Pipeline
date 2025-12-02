@@ -1,0 +1,8 @@
+langchain
+langchain-community
+pandas
+boto3
+python-dotenv
+apache-airflow
+requests
+langchain-ollama

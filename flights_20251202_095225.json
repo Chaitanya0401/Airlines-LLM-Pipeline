@@ -1,0 +1,109 @@
+{
+  "pagination": {
+    "limit": 2,
+    "offset": 0,
+    "count": 2,
+    "total": 97136
+  },
+  "data": [
+    {
+      "flight_date": "2025-12-03",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Gold Coast (coolangatta)",
+        "timezone": "Australia/Brisbane",
+        "iata": "OOL",
+        "icao": "YBCG",
+        "terminal": null,
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-03T08:00:00+00:00",
+        "estimated": "2025-12-03T08:00:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Gold Coast (coolangatta)",
+        "timezone": "Australia/Brisbane",
+        "iata": "OOL",
+        "icao": "YBCG",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-02T10:00:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "empty",
+        "iata": null,
+        "icao": null
+      },
+      "flight": {
+        "number": null,
+        "iata": null,
+        "icao": null,
+        "codeshared": null
+      },
+      "aircraft": null,
+      "live": null
+    },
+    {
+      "flight_date": "2025-12-02",
+      "flight_status": "scheduled",
+      "departure": {
+        "airport": "Madras International (Meenambakkam)",
+        "timezone": "Asia/Kolkata",
+        "iata": "MAA",
+        "icao": "VOMM",
+        "terminal": "4",
+        "gate": null,
+        "delay": null,
+        "scheduled": "2025-12-02T09:10:00+00:00",
+        "estimated": "2025-12-02T09:10:00+00:00",
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "arrival": {
+        "airport": "Civil",
+        "timezone": "Asia/Kolkata",
+        "iata": "TRZ",
+        "icao": "VOTR",
+        "terminal": "1",
+        "gate": null,
+        "baggage": null,
+        "scheduled": "2025-12-02T10:15:00+00:00",
+        "delay": null,
+        "estimated": null,
+        "actual": null,
+        "estimated_runway": null,
+        "actual_runway": null
+      },
+      "airline": {
+        "name": "Malaysia Airlines",
+        "iata": "MH",
+        "icao": "MAS"
+      },
+      "flight": {
+        "number": "5615",
+        "iata": "MH5615",
+        "icao": "MAS5615",
+        "codeshared": {
+          "airline_name": "indigo",
+          "airline_iata": "6e",
+          "airline_icao": "igo",
+          "flight_number": "7191",
+          "flight_iata": "6e7191",
+          "flight_icao": "igo7191"
+        }
+      },
+      "aircraft": null,
+      "live": null
+    }
+  ]
+}

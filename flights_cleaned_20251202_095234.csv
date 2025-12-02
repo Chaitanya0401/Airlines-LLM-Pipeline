@@ -1,0 +1,3 @@
+flight_date,flight_status,departure_airport,departure_iata,arrival_airport,arrival_iata,airline,flight_number
+2025-12-03,scheduled,Gold Coast (coolangatta),OOL,Gold Coast (coolangatta),OOL,empty,
+2025-12-02,scheduled,Madras International (Meenambakkam),MAA,Civil,TRZ,Malaysia Airlines,MH5615
