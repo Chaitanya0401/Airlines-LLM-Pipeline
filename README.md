@@ -41,34 +41,3 @@ Reports stored in S3 (reports/ folder).
 S3 is the central storage for raw, processed, and report data.
 
 Can be run fully locally (Docker + Airflow) or connected to AWS S3.
-
-Architecture Diagram (Text Version)
-        ┌───────────────┐
-        │ AviationStack │
-        │     API       │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │   ingest.py   │
-        │   (Python)    │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │ transform.py  │
-        │   (Python)    │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │ generate_report│
-        │   (LLM)       │
-        └───────┬───────┘
-                │
-                ▼
-         ┌──────────────┐
-         │    S3 Bucket │
-         │ raw/processed│
-         │ reports/     │
-         └──────────────┘
