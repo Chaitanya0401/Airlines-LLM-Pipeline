@@ -32,5 +32,5 @@ An end-to-end aviation ETL pipeline that fetches flight data, transforms it, and
 
 ---
 
-## Architecture Diagram (Text Version)
+
 
